@@ -1,0 +1,24 @@
+baseURL = 'https://remotomasi.github.io/'
+locale = 'en-us'
+title = 'Remo Tomasi Personal Page - Tech & Science'
+theme = "PaperMod"
+
+[params]
+  author = "Remo Tomasi"
+  description = "Hardware, firmware, scienza applicata"
+  ShowReadingTime = true
+  ShowCodeCopyButtons = true
+
+[menu]
+  [[menu.main]]
+    name = "Articoli"
+    url = "/posts/"
+    weight = 1
+  [[menu.main]]
+    name = "Progetti"
+    url = "/projects/"
+    weight = 2
+  [[menu.main]]
+    name = "CV"
+    url = "/cv/"
+    weight = 3
