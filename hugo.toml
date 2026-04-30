@@ -5,14 +5,14 @@ theme = "PaperMod"
 
 [params]
   author = "Remo Tomasi"
-  description = "Ingegnere | Hardware & Firmware | Scienza applicata"
+  description = "Software developer | Science enthusiast | Pragmatic Dreamer | Maker"
   ShowReadingTime = true
   ShowCodeCopyButtons = true
 
   [params.profileMode]
     enabled = true
     title = "Remo Tomasi"
-    subtitle = "Ingegnere con passione per hardware, firmware e scienza applicata. ESP32, KiCad, Python, Java, C/C++."
+    subtitle = "Software developer with a passion for hardware, firmware and applied science. ESP32, KiCad, Python, Java, C/C++."
     imageUrl = "/images/profile.jpg"
     imageWidth = 140
     imageHeight = 140
