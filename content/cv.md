@@ -14,8 +14,8 @@ draft: false
 
 ## Competenze tecniche
 
-- **Embedded**: ESP32, ESP-IDF, FreeRTOS, C/C++
-- **Hardware design**: KiCad 9, sensori ambientali, circuiti analogici
+- **Embedded**: ESP32, C/C++
+- **Hardware design**: KiCad 9, environmental sensors, analog circuits
 - **Backend**: Java Spring MVC, Python, SQL Server
 - **Frontend**: JavaScript, jQuery, Bootstrap
 - **Tools**: Git, WSL2, VS Code, Linux

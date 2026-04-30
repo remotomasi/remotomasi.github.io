@@ -26,8 +26,8 @@
 &lt;hr&gt;
 &lt;h2 id=&#34;competenze-tecniche&#34;&gt;Competenze tecniche&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Embedded&lt;/strong&gt;: ESP32, ESP-IDF, FreeRTOS, C/C++&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Hardware design&lt;/strong&gt;: KiCad 9, sensori ambientali, circuiti analogici&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Embedded&lt;/strong&gt;: ESP32, C/C++&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Hardware design&lt;/strong&gt;: KiCad 9, environmental sensors, analog circuits&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Backend&lt;/strong&gt;: Java Spring MVC, Python, SQL Server&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Frontend&lt;/strong&gt;: JavaScript, jQuery, Bootstrap&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Tools&lt;/strong&gt;: Git, WSL2, VS Code, Linux&lt;/li&gt;
