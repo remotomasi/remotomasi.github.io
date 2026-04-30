@@ -1,13 +1,42 @@
-baseURL = 'https://remotomasi.github.io/'
-locale = 'en-us'
-title = 'Remo Tomasi Personal Page - Tech & Science'
+baseURL = "https://remotomasi.github.io/"
+languageCode = "it"
+title = "Remo Tomasi"
 theme = "PaperMod"
 
 [params]
   author = "Remo Tomasi"
-  description = "Hardware, firmware, scienza applicata"
+  description = "Ingegnere | Hardware & Firmware | Scienza applicata"
   ShowReadingTime = true
   ShowCodeCopyButtons = true
+
+  [params.profileMode]
+    enabled = true
+    title = "Remo Tomasi"
+    subtitle = "Ingegnere con passione per hardware, firmware e scienza applicata. ESP32, KiCad, Python, Java, C/C++."
+    imageUrl = "/images/profile.jpg"
+    imageWidth = 140
+    imageHeight = 140
+    imageTitle = "Remo Tomasi"
+
+    [[params.profileMode.buttons]]
+      name = "Articoli"
+      url = "/posts/"
+
+    [[params.profileMode.buttons]]
+      name = "Progetti"
+      url = "/projects/"
+
+    [[params.profileMode.buttons]]
+      name = "CV"
+      url = "/cv/"
+
+  [[params.socialIcons]]
+    name = "github"
+    url = "https://github.com/remotomasi"
+
+  [[params.socialIcons]]
+    name = "linkedin"
+    url = "https://www.linkedin.com/in/remotomasi/"
 
 [menu]
   [[menu.main]]

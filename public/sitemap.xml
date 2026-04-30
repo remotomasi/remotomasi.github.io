@@ -2,12 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://remotomasi.github.io/categories/</loc>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2026-04-28T15:42:40+02:00</lastmod>
   </url><url>
-    <loc>https://remotomasi.github.io/posts/</loc>
+    <loc>http://localhost:1313/posts/primo-articolo/</loc>
+    <lastmod>2026-04-28T15:42:40+02:00</lastmod>
   </url><url>
-    <loc>https://remotomasi.github.io/</loc>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2026-04-28T15:42:40+02:00</lastmod>
   </url><url>
-    <loc>https://remotomasi.github.io/tags/</loc>
+    <loc>http://localhost:1313/categories/</loc>
+  </url><url>
+    <loc>http://localhost:1313/cv/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
   </url>
 </urlset>
