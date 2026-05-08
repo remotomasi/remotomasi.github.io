@@ -2,44 +2,44 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:35805/tags/c/</loc>
+    <loc>http://localhost:36685/tags/c/</loc>
     <lastmod>2026-05-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:35805/tags/esp32/</loc>
+    <loc>http://localhost:36685/tags/esp32/</loc>
     <lastmod>2026-05-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:35805/projects/optical-glucose-monitor/</loc>
+    <loc>http://localhost:36685/projects/optical-glucose-monitor/</loc>
     <lastmod>2026-05-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:35805/tags/freertos/</loc>
+    <loc>http://localhost:36685/tags/freertos/</loc>
     <lastmod>2026-05-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:35805/tags/kicad/</loc>
+    <loc>http://localhost:36685/tags/kicad/</loc>
     <lastmod>2026-05-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:35805/projects/</loc>
+    <loc>http://localhost:36685/projects/</loc>
     <lastmod>2026-05-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:35805/</loc>
+    <loc>http://localhost:36685/</loc>
     <lastmod>2026-05-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:35805/tags/sensori/</loc>
+    <loc>http://localhost:36685/tags/sensori/</loc>
     <lastmod>2026-05-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:35805/tags/</loc>
+    <loc>http://localhost:36685/tags/</loc>
     <lastmod>2026-05-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:35805/projects/air-quality-monitor/</loc>
+    <loc>http://localhost:36685/projects/air-quality-monitor/</loc>
     <lastmod>2026-05-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:35805/posts/</loc>
+    <loc>http://localhost:36685/posts/</loc>
     <lastmod>2026-04-28T15:42:40+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:35805/posts/primo-articolo/</loc>
+    <loc>http://localhost:36685/posts/primo-articolo/</loc>
     <lastmod>2026-04-28T15:42:40+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:35805/categories/</loc>
+    <loc>http://localhost:36685/categories/</loc>
   </url><url>
-    <loc>http://localhost:35805/cv/</loc>
+    <loc>http://localhost:36685/cv/</loc>
   </url>
 </urlset>
