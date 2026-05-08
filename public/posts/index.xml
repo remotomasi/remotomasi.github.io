@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on Remo Tomasi</title>
-    <link>http://localhost:1313/posts/</link>
+    <link>http://localhost:35805/posts/</link>
     <description>Recent content in Posts on Remo Tomasi</description>
     <generator>Hugo</generator>
     <language>it</language>
     <lastBuildDate>Tue, 28 Apr 2026 15:42:40 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:35805/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Primo Articolo</title>
-      <link>http://localhost:1313/posts/primo-articolo/</link>
+      <link>http://localhost:35805/posts/primo-articolo/</link>
       <pubDate>Tue, 28 Apr 2026 15:42:40 +0200</pubDate>
-      <guid>http://localhost:1313/posts/primo-articolo/</guid>
+      <guid>http://localhost:35805/posts/primo-articolo/</guid>
       <description>&lt;p&gt;Ciao, questo è il mio primo articolo.&lt;/p&gt;</description>
     </item>
   </channel>

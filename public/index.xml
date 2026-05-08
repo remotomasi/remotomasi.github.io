@@ -2,24 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Remo Tomasi</title>
-    <link>http://localhost:1313/</link>
+    <link>http://localhost:35805/</link>
     <description>Recent content on Remo Tomasi</description>
     <generator>Hugo</generator>
     <language>it</language>
-    <lastBuildDate>Tue, 28 Apr 2026 15:42:40 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 07 May 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:35805/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ESP32 Optical Glucose Monitor</title>
+      <link>http://localhost:35805/projects/optical-glucose-monitor/</link>
+      <pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:35805/projects/optical-glucose-monitor/</guid>
+      <description>Dispositivo non invasivo per la misura del valore glicemico basato su ESP32.</description>
+    </item>
+    <item>
+      <title>ESP32 Air Quality Monitor</title>
+      <link>http://localhost:35805/projects/air-quality-monitor/</link>
+      <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:35805/projects/air-quality-monitor/</guid>
+      <description>Dispositivo indoor per il monitoraggio della qualità dell&amp;rsquo;aria basato su ESP32.</description>
+    </item>
     <item>
       <title>Primo Articolo</title>
-      <link>http://localhost:1313/posts/primo-articolo/</link>
+      <link>http://localhost:35805/posts/primo-articolo/</link>
       <pubDate>Tue, 28 Apr 2026 15:42:40 +0200</pubDate>
-      <guid>http://localhost:1313/posts/primo-articolo/</guid>
+      <guid>http://localhost:35805/posts/primo-articolo/</guid>
       <description>&lt;p&gt;Ciao, questo è il mio primo articolo.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Curriculum Vitae</title>
-      <link>http://localhost:1313/cv/</link>
+      <link>http://localhost:35805/cv/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/cv/</guid>
+      <guid>http://localhost:35805/cv/</guid>
       <description>&lt;h2 id=&#34;remo-tomasi&#34;&gt;Remo Tomasi&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;Ingegnere | Hardware &amp;amp; Firmware Developer&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;📧 &lt;a href=&#34;mailto:remo.tomasi@gmail.com&#34;&gt;remo.tomasi@gmail.com&lt;/a&gt; | 🔗 &lt;a href=&#34;https://github.com/remotomasi&#34;&gt;GitHub&lt;/a&gt; | &lt;a href=&#34;https://linkedin.com/in/tuoprofilo&#34;&gt;LinkedIn&lt;/a&gt;&lt;/p&gt;

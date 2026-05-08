@@ -7,7 +7,8 @@ theme = "PaperMod"
   author = "Remo Tomasi"
   description = "Software developer | Science enthusiast | Pragmatic Dreamer | Maker"
   ShowReadingTime = true
-  ShowCodeCopyButtons = true
+  ShowCodeCopyButtons = true  
+  customCSS = ["css/extended/dropdown.css"]
 
   [params.profileMode]
     enabled = true
@@ -43,10 +44,24 @@ theme = "PaperMod"
     name = "Articoli"
     url = "/posts/"
     weight = 1
+
   [[menu.main]]
     name = "Progetti"
     url = "/projects/"
     weight = 2
+  
+  [[menu.main]]
+    name = "Air Quality Monitor"
+    url = "/projects/air-quality-monitor/"
+    parent = "Progetti"
+    weight = 1
+
+  [[menu.main]]
+    name = "Optical Glucose Monitor"
+    url = "/projects/optical-glucose-monitor/"
+    parent = "Progetti"
+    weight = 2
+
   [[menu.main]]
     name = "CV"
     url = "/cv/"
